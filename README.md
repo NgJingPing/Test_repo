@@ -45,7 +45,7 @@ Libraries:
 + pip install uuid
 + pip install requests
 
-```pip install numpy```
+```bash pip install numpy```
 
 ### Database Creation
 

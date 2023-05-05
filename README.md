@@ -38,14 +38,14 @@ Libraries:
 + pip install Pillow
 + pip install keras
 + pip install DateTime
-+ pip install os-sys
 + pip install paddlepaddle-gpu
 + pip install paddlepaddle
 + pip install "paddleocr>=2.0.1"
 + pip install mysql-connector-python
 + pip install uuid
-+ pip install ftplib
 + pip install requests
+
+```pip install numpy```
 
 ### Database Creation
 

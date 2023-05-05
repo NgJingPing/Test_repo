@@ -46,9 +46,7 @@ Libraries:
 + pip install requests
 
 ```bash
-git clone https://github.com/ultralytics/yolov5  # clone
-cd yolov5
-pip install -r requirements.txt  # install
+pip install opencv-python numpy matplotlib Pillow keras DateTime paddlepaddle-gpu paddlepaddle "paddleocr>=2.0.1" mysql-connector-python uuid requests
 ```
 
 ### Database Creation

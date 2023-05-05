@@ -45,6 +45,7 @@ Libraries:
 + pip install uuid
 + pip install requests
 
+Copy here:
 ```bash
 pip install opencv-python numpy matplotlib Pillow keras DateTime paddlepaddle-gpu paddlepaddle "paddleocr>=2.0.1" mysql-connector-python uuid requests
 ```

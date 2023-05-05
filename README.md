@@ -28,7 +28,7 @@ CDN/ Library/ Framework
 
 **ANPR System**
 
-Install python 3.9.7 or above through this link: https://www.python.org/downloads/
+Install python 3.7.6 through this link: [Download File](https://drive.google.com/file/d/1tRxVyHfDwgzzYqjiRiV2nkZKJBYp8ZAT/view?usp=share_link)
 
 Libraries:
 + pip install opencv-python

@@ -45,7 +45,11 @@ Libraries:
 + pip install uuid
 + pip install requests
 
-```bash pip install numpy```
+```bash
+git clone https://github.com/ultralytics/yolov5  # clone
+cd yolov5
+pip install -r requirements.txt  # install
+```
 
 ### Database Creation
 
